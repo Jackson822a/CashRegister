@@ -254,15 +254,15 @@
             // 
             // shopLabel
             // 
-            this.shopLabel.AutoSize = true;
             this.shopLabel.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.shopLabel.Font = new System.Drawing.Font("Modern No. 20", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.shopLabel.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.shopLabel.Location = new System.Drawing.Point(-12, 0);
             this.shopLabel.Name = "shopLabel";
-            this.shopLabel.Size = new System.Drawing.Size(677, 41);
+            this.shopLabel.Size = new System.Drawing.Size(561, 48);
             this.shopLabel.TabIndex = 20;
-            this.shopLabel.Text = " Piano Shop                                         ";
+            this.shopLabel.Text = "Music Shop";
+            this.shopLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // receipt
             // 
